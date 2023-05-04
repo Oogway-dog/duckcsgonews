@@ -1,4 +1,4 @@
 CS:GO
-- Added aimbot
-- Fixed Anti-Aim
-- New Skin
+Added aimbot
+Fixed Anti-Aim
+New Skin
